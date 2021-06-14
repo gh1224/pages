@@ -1,4 +1,3 @@
-# term-project
 # UsedMarket_web_project
 
 웹프로그래밍 텀 프로젝트
